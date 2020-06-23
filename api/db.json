@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "cool",
+      "description": "Beans Brooo",
+      "id": 6
+    },
+    {
+      "title": "HI",
+      "description": "Another one",
+      "id": 7
+    },
+    {
+      "title": "Hello",
+      "description": "Yes. We are testing",
+      "id": 8
+    },
+    {
+      "title": "Hello",
+      "description": "Yes. We are testing",
+      "id": 9
+    },
+    {
+      "title": "Jay Stream",
+      "description": "Simple stream",
+      "userId": "107078585421789093960",
+      "id": 10
+    },
+    {
+      "title": "Testing",
+      "description": "stream edited",
+      "id": 12
+    },
+    {
+      "title": "SImpleStreaming",
+      "description": "Recording",
+      "userId": "107078585421789093960",
+      "id": 13
+    }
+  ]
+}
